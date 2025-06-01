@@ -55,3 +55,12 @@ http://www.linkedin.com/in/larissa-dos-santos-silva-11a285332
 ---
 
 <p align="center">Feito com 💛 por Larissa dos Santos Silva</p>
+
+
+
+
+<!-- Capa animada inferior -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F7D7DE&height=120&section=footer" alt="Capa animada inferior" width="1000" />
+</p>
+
