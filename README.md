@@ -8,6 +8,11 @@
 # 📊 Projeto Bellabeat – Google Data Analytics
 
 
+![Notion](https://img.shields.io/badge/Notion-Projeto%20Bellabeat-blue?logo=notion&style=flat)
+![Google Data Analytics](https://img.shields.io/badge/Google-Data%20Analytics-blue?logo=google&style=flat)
+
+
+
 ## Sobre Mim
 
 Sou **Larissa dos Santos Silva**, apaixonada por dados, BI e storytelling. Aqui compartilho os principais projetos que desenvolvi durante minha formação Microsoft Power BI para Business Intelligence e Ciência de Dados pela Data Science Academy.
@@ -40,9 +45,6 @@ Este projeto faz parte do curso **Google Data Analytics Professional Certificate
 - Notion
 
 
-
-![Notion](https://img.shields.io/badge/Notion-Projeto%20Bellabeat-blue?logo=notion&style=flat)
-![Google Data Analytics](https://img.shields.io/badge/Google-Data%20Analytics-blue?logo=google&style=flat)
 
 
 
