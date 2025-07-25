@@ -23,6 +23,7 @@ Este projeto faz parte do curso **Google Data Analytics Professional Certificate
 
 
 
+
 🔗 **Acesse o projeto completo no Notion:**  
 
 [[Projeto Bellabeat – Notion](https://www.notion.so/Projeto-Bellabeat-Google-Data-Analytics-205ae8705fee80f8b576d2fead93a216)
