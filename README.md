@@ -15,7 +15,7 @@
 
 ## Sobre Mim
 
-Sou **Larissa dos Santos Silva**, apaixonada por dados, BI e storytelling. Aqui compartilho os principais projetos que desenvolvi durante minha formação Microsoft Power BI para Business Intelligence e Ciência de Dados pela Data Science Academy.
+Sou **Larissa dos Santos Silva**, apaixonada por dados, BI e storytelling. Aqui compartilho os principais projetos que desenvolvi durante minha trajetória para a área de dados. 
 
 
 
